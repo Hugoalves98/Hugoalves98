@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hugoalves98
 - 👀 I’m interested in learning about programming and how it all works
 - Quero aprender sobre programação no geral pra achar uma linguagem de programação que eu goste e me aprofunde nela
-- 🌱 I’m currently learning the basics on rocketseat, I'm almost done with discover
+- 🌱 I’m currently learning on dio.me the carrefour web developer.
 - 💞️ I’m looking to collaborate on solving problems
 - 📫 How to reach me by email: hugorochalves@gmail.com
 <!---
