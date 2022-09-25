@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hugoalves98
 - 👀 I’m interested in learning about programming and how it all works
 - Quero aprender sobre programação no geral pra achar uma linguagem de programação que eu goste e me aprofunde nela
-- 🌱 I’m currently working at Etios Consultória, with Advpl.
+- 🌱 I’m currently working at Target Work, with .NET.
 - 💞️ I’m looking to collaborate on solving problems
 - 📫 How to reach me by email: hugorochalves@gmail.com and by linkedin: https://www.linkedin.com/in/hugo-rocha-a1606b219/
 <!---
